@@ -83,18 +83,18 @@ Média:
 
 ## 🗂 Estrutura do Repositório
 
-📦 Generation-INTRO-CS4
-┣ 
-┣ 📜 vetor_ordenacao_decrescente.por
-┣ 📜 vetor_manipulacao.por
-┣ 📜 README.md
-
+📦 Generation-INTRO-CS4   
+|     
+┣ 📜 vetor_ordenacao_decrescente.por    
+┣ 📜 vetor_manipulacao.por     
+┣ 📜 README.md          
+ 
 ---
 
 ## 🧑‍💻 Autor
 **Assis Pires Neto**  
 Desenvolvedor Front-End | Generation Brasil  
-[GitHub: Lancellot](https://github.com/Lancellot)  
+[GitHub: Assis Neto](https://github.com/Lancellot)  
 
 ---
 
